@@ -25,7 +25,8 @@
                 <div class="row mt-3">
                     <div class="col">
                         <input type="number" class="form-control" placeholder="Precio" name="precio">
-                    </div>
+                    </div> 
+                    
                 </div>
                 
                 <div class="row mt-3">
